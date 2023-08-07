@@ -2,7 +2,7 @@
   "name": "create-next-template",
   "version": "0.1.0",
   "repository": {
-    "url": ""
+    "url": "https://github.com/MuhammadFadhil10/ceate-next-template"
   },
   "scripts": {
     "start": "ts-node src/index.ts"
@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "commander": "^11.0.0",
-    "npm": "^9.8.1",
     "typescript": "*"
   },
   "devDependencies": {
